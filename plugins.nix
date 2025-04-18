@@ -7,4 +7,12 @@
     version = "11.0.0.0";
     homepage = "https://github.com/jellyfin/jellyfin-plugin-kodisyncqueue";
   };
+  inplayerepisodepreview = {
+    version = "1.3.1.0";
+    homepage = "https://github.com/Namo2/InPlayerEpisodePreview";
+  };
+  editorschoice = {
+    version = "1.0.8.0";
+    homepage = "https://github.com/lachlandcp/jellyfin-editors-choice-plugin";
+  };
 }

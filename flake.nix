@@ -11,6 +11,14 @@
       url = "file+https://github.com/jellyfin/jellyfin-plugin-kodisyncqueue/releases/download/v11/kodi-sync-queue_11.0.0.0.zip";
       flake = false;
     };
+    "inplayerepisodepreview" = {
+      url = "file+https://github.com/Namo2/InPlayerEpisodePreview/releases/download/v1.3.1.0/InPlayerEpisodePreview-1.3.1.0-server.zip";
+      flake = false;
+    };
+    "editorschoice" = {
+      url = "file+https://github.com/lachlandcp/jellyfin-editors-choice-plugin/releases/download/1.0.8.0/EditorsChoicePlugin-v1.0.8.0.zip";
+      flake = false;
+    };
   };
 
   outputs =
